@@ -1,1 +1,1 @@
-# Greater-Leasser-Guessing-Game
+# Greater-Lesser-Guessing-Game
