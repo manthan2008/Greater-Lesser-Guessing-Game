@@ -10,7 +10,8 @@ no_chances = no_chances_input
 no_chances_used = 0
 user_points = 0
 computer_points = 0
-
+ 
+	
 while no_chances > no_chances_used:
 	user_input = int(input('Guess Any number from 0 - 20:'))
 	computer_input = random.choice(numbers)
